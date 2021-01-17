@@ -1,0 +1,14 @@
+name: test-antora-site
+title: Test Antora site
+version: master
+asciidoc:
+  attributes:
+    project-name: <i>Test Antora site</i>
+    page-pagination: true
+    icons: font
+
+    # Ability/weapon/variant keywords
+    test: <i>Test</i>
+
+nav:
+  - modules/test/nav.adoc
