@@ -9,6 +9,3 @@ asciidoc:
 
     # Ability/weapon/variant keywords
     test: <i>Test</i>
-
-nav:
-  - modules/test/nav.adoc

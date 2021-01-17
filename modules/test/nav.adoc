@@ -1,3 +1,0 @@
-* xref:test.adoc[]
- ** xref:test-stuff.adoc[]
-  *** xref:test-stuff-child.adoc[] 
