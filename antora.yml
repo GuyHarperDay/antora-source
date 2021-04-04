@@ -1,6 +1,6 @@
 name: test-antora-site
 title: Test Antora site
-version: master
+version: main
 asciidoc:
   attributes:
     project-name: <i>Test Antora site</i>
